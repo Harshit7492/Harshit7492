@@ -38,8 +38,7 @@
 
   ## 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit7492&theme=2077)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit7492&theme=algolia)
   
 ## 🌍 Let's Connect!
 
