@@ -42,7 +42,7 @@
   
 ## 🌍 Let's Connect!
 
-- LinkedIn: [Harshit Singh](https://www.linkedin.com/in/harshit-singh8/)
+- LinkedIn: [Harshit-Singh](https://www.linkedin.com/in/harshit-singh8/)
 - GitHub: [Harshit7492](https://github.com/Harshit7492)
 - Email: Harshit28k@gmail.com
 
